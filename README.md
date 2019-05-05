@@ -7,5 +7,7 @@
 
 ### Galery (Mobile)
 
+<img align="left" src="/img/mobile-1.PNG">
 
+<img align="right" src="/img/mobile-2.PNG">
 
