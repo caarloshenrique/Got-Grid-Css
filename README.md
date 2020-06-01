@@ -1,6 +1,14 @@
 # Got-Grid-Css
 🐲 Grid layout desenvolvido com a temática de Game of Thrones para a disciplina de Desenvolvimento Web 1
 
+## :rocket: Tecnologias utilizadas 
+O projeto foi feito utilizando as seguintes tecnologias:
+
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/)
+{...}
+
+
 ### Galery (Desktop)
 
 <img src="/img/galery.PNG">
