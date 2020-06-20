@@ -1,4 +1,4 @@
-# Got-Grid-Css
+# got-grid-css
 🐲 Grid layout desenvolvido com a temática de Game of Thrones para a disciplina de Desenvolvimento Web 1
 
 ### Galery (Desktop)
