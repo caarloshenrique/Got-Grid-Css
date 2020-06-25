@@ -6,10 +6,11 @@
 <img src="/img/galery.PNG">
 
 ### Galery (Mobile)
+<p align="center">
+<img src="/img/mobile-1.PNG" width="300" height="560">
 
-<img src="/img/mobile-1.PNG">
-
-<img src="/img/mobile-2.PNG">
+<img src="/img/mobile-2.PNG" width="300" height="560">
+</p>
 
 ## :rocket: Tecnologias utilizadas 
 O projeto foi feito utilizando as seguintes tecnologias:
